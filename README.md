@@ -51,7 +51,7 @@ The goal of this project is to:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](Screenshot 2025-05-20 122048.png)
+![Dashboard Screenshot](https://github.com/Kritika-saha/Blinkit-sales-Dashboard/blob/3f6a33093c683930853a9cb82de6981cf014f0a7/Screenshot%202025-05-20%20122048.png)
 
 ---
 
