@@ -51,7 +51,7 @@ The goal of this project is to:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](Screenshot 2025-05-20 122048.png)
 
 ---
 
